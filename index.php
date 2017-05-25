@@ -35,3 +35,4 @@ function validateAlliance(){
 </script>
 </body>
 </html>
+    
